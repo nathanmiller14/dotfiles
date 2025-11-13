@@ -1,0 +1,38 @@
+2025-11-12T19:26:19.724Z - error: [ui] Error getting token for 'GitHub - https://api.github.com'. Skipping.
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2025-11-12T19:26:19.730Z - info: [ui] [AppStore] loading 1 repositories from store
+2025-11-12T19:26:20.015Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.12.57)
+2025-11-12T19:26:20.016Z - info: [ui] execPath: '/nix/store/1d2cdjqrywiy98dpa1dxfspwd46lfl67-github-desktop-3.4.13/opt/github-desktop'
+2025-11-12T19:26:20.244Z - info: [ui] Stats reported.
+2025-11-12T19:26:23.893Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-11-12T19:26:23.900Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-11-12T19:26:32.916Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-11-12T19:26:32.924Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=44b7d1de-a65f-4b41-a083-b7c9e1b25e94
+2025-11-12T19:26:36.761Z - info: [main] Received possible protocol arguments: 4
+2025-11-12T19:26:36.761Z - info: [main] Processing protocol url
+2025-11-12T19:26:36.843Z - info: [main] Received possible protocol arguments: 2
+2025-11-12T19:26:36.847Z - info: [main] Processing protocol url
+2025-11-12T19:26:37.587Z - info: [ui] [SignInStore] account resolved
+2025-11-12T19:26:37.587Z - info: [ui] [AppStore] adding account nathanmiller14 (nathanmiller14) to store
+2025-11-12T19:26:37.593Z - error: [ui] Error adding account 'nathanmiller14'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2025-11-12T19:27:14.042Z - info: [ui] [AppStore] adding repository at /home/nathan/git/dotfiles to store
+2025-11-12T19:27:14.117Z - info: [ui] [BranchPruner] Last prune took place 1 minute ago - skipping
+2025-11-12T19:27:14.302Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-11-12T19:27:14.308Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-11-12T19:28:01.695Z - info: [ui] [Timing] Action 'create commit' for 'dotfiles' took 0.074s
+2025-11-12T19:28:07.421Z - info: [ui] [SignInStore] initializing OAuth flow
+2025-11-12T19:28:07.428Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=4a60e031-e3f4-4dcc-ab0d-8ae51cf8e3dd
+2025-11-12T19:28:11.334Z - info: [main] Received possible protocol arguments: 4
+2025-11-12T19:28:11.334Z - info: [main] Processing protocol url
+2025-11-12T19:28:11.415Z - info: [main] Received possible protocol arguments: 2
+2025-11-12T19:28:11.419Z - info: [main] Processing protocol url
+2025-11-12T19:28:12.190Z - info: [ui] [SignInStore] account resolved
+2025-11-12T19:28:12.201Z - info: [ui] [AppStore] adding account nathanmiller14 (nathanmiller14) to store
+2025-11-12T19:28:12.209Z - error: [ui] Error adding account 'nathanmiller14'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2025-11-12T19:28:12.576Z - info: [ui] Executing push: git push origin main:main --progress (took 6.513s)

@@ -1,0 +1,4 @@
+Dashlets
+SSIDs
+geolocation
+checksum_v1 = 361d2db2a2ec4c06dffc656012af9aff

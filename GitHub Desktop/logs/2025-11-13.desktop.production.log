@@ -1,0 +1,30 @@
+2025-11-13T21:01:35.030Z - info: [ui] [AppStore] loading 2 repositories from store
+2025-11-13T21:01:35.275Z - info: [ui] launching: 3.4.13-linux1 (Linux 6.12.57)
+2025-11-13T21:01:35.276Z - info: [ui] execPath: '/nix/store/1d2cdjqrywiy98dpa1dxfspwd46lfl67-github-desktop-3.4.13/opt/github-desktop'
+2025-11-13T21:01:35.613Z - info: [ui] Stats reported.
+2025-11-13T21:02:17.173Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-11-13T21:02:17.179Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-11-13T21:02:17.187Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.3s of which 0.0s paused, total 0.3s
+2025-11-13T21:06:47.023Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-11-13T21:06:47.026Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-11-13T21:11:28.056Z - info: [ui] [AppStore] adding repository at /home/nathan/git/dotfiles to store
+2025-11-13T21:11:28.144Z - info: [ui] [BranchPruner] Last prune took place 5 minutes ago - skipping
+2025-11-13T21:11:28.606Z - info: [ui] credential-helper: could not find credential for https://github.com/
+2025-11-13T21:11:28.611Z - error: [ui] `git fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+fatal: could not read Username for 'https://github.com': terminal prompts disabled
+
+2025-11-13T21:14:34.985Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-11-13T21:15:09.338Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-11-13T21:15:12.257Z - info: [ui] No submodules found. Skipping "git submodule status"
+2025-11-13T21:15:13.483Z - info: [ui] No submodules found. Skipping "git submodule status"
+2025-11-13T21:15:18.732Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-11-13T21:15:22.399Z - error: [ui] Could not load new contents for syntax highlighting
+Error: EISDIR: illegal operation on a directory, read
+2025-11-13T21:15:31.411Z - info: [ui] No submodules found. Skipping "git submodule status"
