@@ -6,6 +6,7 @@
   environment.systemPackages = with pkgs; [
     wget
     git
+    pavucontrol
   ];
 
   time.timeZone = "America/Detroit";

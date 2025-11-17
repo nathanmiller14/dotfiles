@@ -7,5 +7,6 @@
     ./settings.nix
     ./exec-once.nix
     ./monitors.nix
+    ./variables.nix
   ];
 }
