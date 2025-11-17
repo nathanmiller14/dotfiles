@@ -2,7 +2,7 @@
 
 {
   wayland.windowManager.hyprland.settings.exec-once = [
-    "swww-init &"
+    "swww-daemon &"
     "waybar &"
   ];
 }

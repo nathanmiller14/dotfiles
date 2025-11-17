@@ -6,24 +6,26 @@
     ./ghostty/default.nix
     ./hyprland/default.nix
     ./zsh/default.nix
-    ./nvim.nix
+    ./nvim/nvim.nix
     ./rofi/rofi.nix
     ./browser/firefox.nix
     ./github/github.nix
+    ./waybar/default.nix
+    ./obsidian/obsidian.nix
   ];
 
 /*
  packages = with pkgs; [
 	  
-    firefox-devedition
+ 
 	  nwg-look
     
-	  rofi
+	  
 	  waybar
-	  neovim
+	  
 	  obsidian
 	  git
-	  github-desktop
+	  -
 	  yazi
 	  btop
 	  
